@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Muhammad Sharafas
 
 ## 🚀 About Me
 - 🎓 Student / Developer / Tech Enthusiast
